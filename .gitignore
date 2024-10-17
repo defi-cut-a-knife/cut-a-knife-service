@@ -23,3 +23,8 @@ go.work.sum
 
 # env file
 .env
+
+# contract files
+*.abi
+*.bin
+*.sol

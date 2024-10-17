@@ -11,3 +11,5 @@ Friends will activate their token big airdrop by opening the user's activity lin
 # Project Catalog Introduction
 docs: Contains documentation related to the project.Including design
 src: Contains the source code of the project.
+src/contracts: Contains the smart contracts of the project. but the repositories does not store smart contracts. Only store scripts for compiling contracts
+src/test: Contains the test cases of the project.
